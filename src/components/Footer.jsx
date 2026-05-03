@@ -1,4 +1,4 @@
-import { Facebook, Instagram, Utensils } from 'lucide-react';
+import { FacebookIcon, InstagramIcon, Utensils } from "lucide-react";
 import { navLinks } from '../data.js';
 
 export default function Footer() {
